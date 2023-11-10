@@ -1,0 +1,52 @@
+[
+    {
+        "name" : "Barbie",
+        "weight" : 0.3,
+        "amount" : 5
+    },
+    {
+        "name" : "Jet",
+        "weight" : 0.1,
+        "amount" : 2
+    },
+    {
+        "name" : "Soccer ball",
+        "weight" : 0.4,
+        "amount" : 5
+    },
+    {
+        "name" : "Teddy Bear",
+        "weight" : 0.5,
+        "amount" : 10
+    },
+    {
+        "name" : "Robot",
+        "weight" : 0.1,
+        "amount" : 1
+    },
+    {
+        "name" : "Teddy Bear",
+        "weight" : 0.5,
+        "amount" : 10
+    },
+    {
+        "name" : "Constructor",
+        "weight" : 0.2,
+        "amount" : 4
+    },
+    {
+        "name" : "Jet",
+        "weight" : 0.1,
+        "amount" : 2
+    },
+    {
+        "name" : "Jet",
+        "weight" : 0.1,
+        "amount" : 2
+    },
+    {
+        "name" : "Robot",
+        "weight" : 0.1,
+        "amount" : 1
+    }
+]
